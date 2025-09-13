@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>Hotel Feedback Forn </title>
+    </head><body>
+         <header><h1>Hotel Feedback Form</h1>
+    <p>Thank you for staying with us. Please provide feedback on your recent stay.</p></header>
+   
+      <main>
+         <form method="POST" action="https://hotel-feedback.freecodecamp.org"" >
+          <fieldset></fieldset>
+         </form>
+      </main>
+      </body>
