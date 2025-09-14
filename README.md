@@ -12,6 +12,8 @@
           <fieldset><legend>Personal Information</legend>
             <label for="full-name">Name (required):</label>
           <input type="text" id="full-name" name="name" placeholder="Ex. John Doe" reuired>
+          <label for="email">Email (required):</label>
+          <input type="email" id="email" name="email" placeholder="example@email.com" required>
           </fieldset>
          </form>
       </main>
