@@ -17,7 +17,10 @@
           <label for="email">Email (required):</label>
           <input type="email" id="email" name="email" placeholder="example@email.com" required size="20">
           </fieldset>
-           <fieldset><legend>Was this your first time at our hotel?</legend></fieldset>
+           <fieldset><legend>Was this your first time at our hotel?</legend>
+              <input type="radio" id="yes-option" name="hotel-stay">
+          <label for="yes-option">Yes </label>
+           </fieldset>
          </form>
       </main>
       </body>
