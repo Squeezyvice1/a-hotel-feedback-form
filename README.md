@@ -23,6 +23,16 @@
                 <input id="no-option" type="radio" name="hotel-stay">
           <label for="no-option">No </label>
            </fieldset>
+           <fieldset><legend>Why did you choose to stay at our hotel? (Check all that apply)</legend>
+          <input type="checkbox" name="ads" id="ads" value="ads">
+          <label for="ads">Social Media Ads </label>
+           <input type="checkbox" id="recommendation" name="recommendation" value="recommendation">
+        <label for="recommendation">Personal Recommendation </label>
+            <input type="checkbox" id="location" name="location" value="location">
+          <label for="location">Location </label>
+          <input type="checkbox" id="reputation" name="reputation" value="reputation">
+          <label for="reputation">Reputation </label>
+          </fieldset>
          </form>
       </main>
       </body>
