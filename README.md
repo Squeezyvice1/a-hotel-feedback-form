@@ -12,9 +12,12 @@
           <fieldset><legend>Personal Information</legend>
             <label for="full-name">Name (required):</label>
           <input type="text" id="full-name" name="name" placeholder="Ex. John Doe" reuired size="20">
+            <label for="age">Age (optional):</label>
+            <input type="number" id="age" name="age" min="3" max="100">
           <label for="email">Email (required):</label>
           <input type="email" id="email" name="email" placeholder="example@email.com" required size="20">
           </fieldset>
+           <fieldset><legend>Was this your first time at our hotel?</legend></fieldset>
          </form>
       </main>
       </body>
