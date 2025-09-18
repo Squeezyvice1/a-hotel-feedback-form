@@ -20,6 +20,8 @@
            <fieldset><legend>Was this your first time at our hotel?</legend>
               <input type="radio" id="yes-option" name="hotel-stay">
           <label for="yes-option">Yes </label>
+                <input id="no-option" type="radio" name="hotel-stay">
+          <label for="no-option">No </label>
            </fieldset>
          </form>
       </main>
