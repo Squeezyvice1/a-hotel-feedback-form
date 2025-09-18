@@ -30,8 +30,10 @@
         <label for="recommendation">Personal Recommendation </label>
             <input type="checkbox" id="location" name="location" value="location">
           <label for="location">Location </label>
-          <input type="checkbox" id="reputation" name="reputation" value="reputation">
+          <input checked type="checkbox" id="reputation" name="reputation" value="reputation">
           <label for="reputation">Reputation </label>
+           <input type="checkbox" id="price" name="price" value="price">
+          <label for="price"> Price </label>
           </fieldset>
          </form>
       </main>
